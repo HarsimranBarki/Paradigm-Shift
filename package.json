@@ -1,0 +1,25 @@
+{
+  "name": "paradigm-shift",
+  "version": "1.0.0",
+  "description": "A multipurpose brand website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarsimranBarki/Paradigm-Shift.git"
+  },
+  "keywords": [
+    "Single",
+    "Page",
+    "Brand",
+    "Modern"
+  ],
+  "author": "Orginal Author @ajknl remade by Harsimran Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarsimranBarki/Paradigm-Shift/issues"
+  },
+  "homepage": "https://github.com/HarsimranBarki/Paradigm-Shift#readme"
+}
